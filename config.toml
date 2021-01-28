@@ -1,0 +1,4 @@
+baseurl = "https://example.com/"
+title = "GoRunLearn"
+theme = "ghostwriter"
+languageCode = "en-us"
